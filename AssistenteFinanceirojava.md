@@ -26,7 +26,3 @@ O sistema permite simular operações financeiras básicas, como entradas e saí
 
 🚧 Em desenvolvimento  
 O projeto está em evolução contínua, recebendo melhorias conforme novos conceitos são aprendidos.
-
-## Observações
-
-Este projeto faz parte do meu processo de aprendizado em programação e será utilizado como base para projetos mais completos no futuro.
