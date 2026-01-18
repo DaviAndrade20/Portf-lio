@@ -10,6 +10,7 @@ public class projetoFinancial {
         System.out.println("       Oi! Eu sou Jake");
         System.out.println("   Seu assistente financeiro pessoal");
         System.out.println("========================================");
+        System.out.println("========================================");
 
         System.out.print("Qual é o seu nome? ");
         String nome = sc.nextLine();
