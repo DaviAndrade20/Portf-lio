@@ -7,7 +7,7 @@ public class projetoFinancial {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("========================================");
-        System.out.println("       Olá! Eu sou Jake");
+        System.out.println("       Oi! Eu sou Jake");
         System.out.println("   Seu assistente financeiro pessoal");
         System.out.println("========================================");
 
